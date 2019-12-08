@@ -1,0 +1,14 @@
+[INFO ] 2019-11-30 22:59:56.639 [main] Main 9 - Hello world
+[INFO ] 2019-11-30 23:00:11.744 [main] Main 9 - Hello world
+[INFO ] 2019-11-30 23:06:43.915 [main] by.epam.courses.action.PyramidVolumeTest 17 - Test  is starting
+[INFO ] 2019-11-30 23:06:43.938 [main] by.epam.courses.action.PyramidVolumeTest 22 - Test is finishing
+[INFO ] 2019-11-30 23:07:10.242 [main] by.epam.courses.action.PyramidVolumeTest 17 - Test  is starting
+[INFO ] 2019-11-30 23:07:10.259 [main] by.epam.courses.action.PyramidVolumeTest 22 - Test is finishing
+[INFO ] 2019-11-30 23:39:12.403 [main] by.epam.courses.action.PyramidIs 17 - Test  is starting
+[INFO ] 2019-11-30 23:39:12.424 [main] by.epam.courses.action.PyramidIs 22 - Test is finishing
+[INFO ] 2019-11-30 23:40:30.685 [main] by.epam.courses.action.PyramidIs 17 - Test  is starting
+[INFO ] 2019-11-30 23:40:30.703 [main] by.epam.courses.action.PyramidIs 22 - Test is finishing
+[INFO ] 2019-11-30 23:41:40.188 [main] by.epam.courses.action.PyramidIs 17 - Test  is starting
+[INFO ] 2019-11-30 23:41:40.207 [main] by.epam.courses.action.PyramidIs 22 - Test is finishing
+[INFO ] 2019-11-30 23:41:56.796 [main] by.epam.courses.action.PyramidIs 17 - Test  is starting
+[INFO ] 2019-11-30 23:41:56.811 [main] by.epam.courses.action.PyramidIs 22 - Test is finishing

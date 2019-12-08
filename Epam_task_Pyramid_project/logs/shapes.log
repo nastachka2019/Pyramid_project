@@ -1,0 +1,4 @@
+[INFO ] 2019-12-06 10:42:56.907 [main] by.epam.courses.action.PyramidAction 26 - It is a regular pyramid
+[DEBUG] 2019-12-06 12:54:23.001 [main] by.epam.courses.validator.PyramidValidator 12 - String is false
+[WARN ] 2019-12-06 12:54:23.010 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-06 12:54:23.071 [main] by.epam.courses.dataParser.DataParser 27 - String parsed

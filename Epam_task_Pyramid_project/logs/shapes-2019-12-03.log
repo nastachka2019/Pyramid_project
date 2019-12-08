@@ -1,0 +1,18 @@
+[DEBUG] 2019-12-03 16:41:27.833 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-03 16:41:27.871 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-03 16:41:27.966 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-03 16:41:47.875 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-03 16:41:47.882 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-03 16:41:47.995 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-03 16:42:09.843 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-03 16:42:09.854 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-03 16:42:09.966 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-03 21:31:27.981 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-03 21:31:27.981 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-03 21:31:28.050 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-03 21:31:52.727 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-03 21:31:52.735 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-03 21:31:52.781 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-03 21:33:03.977 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-03 21:33:03.992 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-03 21:33:04.046 [main] by.epam.courses.dataParser.DataParser 27 - String parsed

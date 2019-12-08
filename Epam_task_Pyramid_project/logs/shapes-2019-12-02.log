@@ -1,0 +1,63 @@
+[DEBUG] 2019-12-01 00:00:59.620 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:00:59.651 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:00:59.713 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:00:59.713 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:00:59.713 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:01:37.769 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:01:37.769 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:01:37.832 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:01:37.832 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:01:37.847 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:03:25.368 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:03:25.384 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:03:25.446 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:03:25.446 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:03:25.462 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:03:46.582 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:03:46.598 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:03:46.676 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:03:46.676 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:03:46.676 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:13:03.871 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:13:03.887 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:13:03.965 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:13:03.980 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:13:03.980 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:15:02.045 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:15:02.045 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:15:02.130 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:15:02.131 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:15:02.133 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:16:51.442 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:16:51.448 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:16:51.512 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:16:51.512 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:16:51.512 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:27:59.169 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:27:59.185 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:27:59.254 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:27:59.254 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:27:59.254 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:29:01.867 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:29:01.867 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:29:01.952 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:29:01.952 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:29:01.952 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:30:30.148 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:30:30.148 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:30:30.226 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 00:30:30.226 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 00:30:30.242 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 00:30:56.184 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 00:30:56.200 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 00:30:56.285 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[DEBUG] 2019-12-01 12:18:37.183 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 12:18:37.183 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 12:18:37.246 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 12:18:37.246 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 12:18:37.246 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing
+[DEBUG] 2019-12-01 12:19:03.506 [main] by.epam.courses.validator.PyramidValidator 16 - String is false
+[WARN ] 2019-12-01 12:19:03.522 [main] by.epam.courses.dataParser.DataParser 31 - Invalid  data
+[DEBUG] 2019-12-01 12:19:03.600 [main] by.epam.courses.dataParser.DataParser 34 - String parsed
+[INFO ] 2019-12-01 12:19:03.600 [main] by.epam.courses.action.DataParserTest 24 - Test  is starting
+[INFO ] 2019-12-01 12:19:03.600 [main] by.epam.courses.action.DataParserTest 29 - Test is finishing

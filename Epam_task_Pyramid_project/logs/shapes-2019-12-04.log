@@ -1,0 +1,21 @@
+[DEBUG] 2019-12-04 20:15:58.012 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-04 20:15:58.028 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-04 20:15:58.068 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-04 20:19:04.513 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-04 20:19:04.513 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-04 20:19:04.561 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-04 20:24:22.431 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-04 20:24:22.435 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-04 20:24:22.479 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-04 20:25:14.437 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-04 20:25:14.441 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-04 20:25:14.481 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-04 20:31:21.728 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-04 20:31:21.728 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-04 20:31:21.773 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-04 20:31:32.626 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-04 20:31:32.630 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-04 20:31:32.666 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
+[DEBUG] 2019-12-04 20:34:49.591 [main] by.epam.courses.validator.PyramidValidator 13 - String is false
+[WARN ] 2019-12-04 20:34:49.591 [main] by.epam.courses.dataParser.DataParser 24 - Invalid  data
+[DEBUG] 2019-12-04 20:34:49.631 [main] by.epam.courses.dataParser.DataParser 27 - String parsed
